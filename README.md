@@ -38,14 +38,9 @@ This board is capable of leveraging the many different DSP techniques in the [Da
 
 There are many people who helped make this project possible. I would like to thank them all here. 
 
-Thank you to Dave Darko who introduced me to xhain, the community where this project spawned from.
-
-Thank you to Winny Li for designing the graphic for this board. 
-
-Thank you to Aisler for sponsoring the initial run of this board 🟢
-
-Thank you to Jason Garwood for designing the diagram, and co-creating the previous iterations of this project with me. 
-
-Thank you to Rowan Dunlop for introducing me to the Pittsburgh Sound Preserve, where the initial testing of previous iterations of this project happened, and for helping with prior iteratons of the board. 
-
-Thank you to the folks at Carnegie Mellon University for supporting the initial research on music effects, including my research advisor Tom Zajdel, and my mentor Jesse Styles. 
+Thank you to *Dave Darko* who introduced me to xhain, the community where this project spawned from.
+Thank you to *Winny Li* for designing the graphic for this board. 
+Thank you to *Thea Krug* at Aisler for sponsoring the initial run of this board 🟢
+Thank you to *Jason Garwood* for designing the diagram, and co-creating the previous iterations of this project with me. 
+Thank you to *Rowan Dunlop* for introducing me to the Pittsburgh Sound Preserve, where the initial testing of previous iterations of this project happened, and for supporting prior iterations of the board. 
+Thank you to the folks at Carnegie Mellon University for supporting the initial research on music effects, including my research advisor *Tom Zajdel*, and my mentor *Jesse Styles*. 
