@@ -3,12 +3,24 @@
 Welcome to the documentation for Twinkle Toes, a DIY audio effects pedal based on the [Daisy Seed.](https://electro-smith.com/products/daisy-seed?variant=45234245108004z) 
 
 # Hardware
-Here is a diagram of the board:
+
+Bill of Materials
+| Item              | Quantity |
+|-------------------|----------|
+| Daisy Seed        | 1        |
+| Foot Shaped PCB   | 1        |
+| Potentiometer     | 1        |
+| Toggle Switch     | 1        |
+| LED               | 5        |
+| 1kΩ Resistor      | 5        |
+| 1000 uF Capacitor | 1        |
+| .1 uF Capacitor   | 1        |
+| 3.5mm Audio Jack  | 2        |
 
 ![diagram of twinkle toes](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/diagram.png)
 
 The resistors are just current limiting resistors. You can be way more picky about choosing values to optimize for LED brightness, or you can just use a 1k resitor. 
-There is a 1000uF cap at C1, and a .1uF cap at C3. 
+There is a 1000uF cap at C2, and a .1uF cap at C3. 
 
 # Setting up a Development Environment for the TwinkleToes
 
