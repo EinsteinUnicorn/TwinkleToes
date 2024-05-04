@@ -14,7 +14,7 @@ There is a 1000uF cap at C1, and a .1uF cap at C3.
 
 To program the TwinkleToes, you will need to set up a development environment for developing on the Daisy eed. You can find documentation on how to do that [here.](https://github.com/electro-smith/DaisyWiki/wiki/1.-Setting-Up-Your-Development-Environment)
 
-After you set up the development environment, you can create a new project to write your own hacky software to run on the board. There is some great documentation [here] (https://github.com/electro-smith/DaisyWiki/wiki/1.-Setting-Up-Your-Development-Environment#to-make-your-own-daisy-project-checkout-the-create-a-new-project-wiki-page) on how to do this. 
+After you set up the development environment, you can create a new project to write your own hacky software to run on the board. There is some great documentation [here](https://github.com/electro-smith/DaisyWiki/wiki/1.-Setting-Up-Your-Development-Environment#to-make-your-own-daisy-project-checkout-the-create-a-new-project-wiki-page) on how to do this. 
 
 You can now program Twinkle Toes just like you would a Daisy Seed, with some hardware already wired to certain pins. There is also space for you to access the Daisy Seed I/O should you want to repurpose the board 😙
 
@@ -39,8 +39,13 @@ This board is capable of leveraging the many different DSP techniques in the [Da
 There are many people who helped make this project possible. I would like to thank them all here. 
 
 Thank you to Dave Darko who introduced me to xhain, the community where this project spawned from.
+
 Thank you to Winny Li for designing the graphic for this board. 
+
 Thank you to Aisler for sponsoring the initial run of this board 🟢
+
 Thank you to Jason Garwood for designing the diagram, and co-creating the previous iterations of this project with me. 
+
 Thank you to Rowan Dunlop for introducing me to the Pittsburgh Sound Preserve, where the initial testing of previous iterations of this project happened, and for helping with prior iteratons of the board. 
+
 Thank you to the folks at Carnegie Mellon University for supporting the initial research on music effects, including my research advisor Tom Zajdel, and my mentor Jesse Styles. 
