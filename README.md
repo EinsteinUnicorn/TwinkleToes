@@ -2,9 +2,7 @@
 
 Welcome to the documentation for Twinkle Toes, a DIY audio effects pedal based on the [Daisy Seed.](https://electro-smith.com/products/daisy-seed?variant=45234245108004z) 
 
-# Hardware
-
-Bill of Materials
+# Bill of Materials
 | Item              | Quantity |
 |-------------------|----------|
 | Daisy Seed        | 1        |
@@ -16,6 +14,8 @@ Bill of Materials
 | 1000 uF Capacitor | 1        |
 | .1 uF Capacitor   | 1        |
 | 3.5mm Audio Jack  | 2        |
+
+# Hardware
 
 ![diagram of twinkle toes](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/diagram.png)
 
