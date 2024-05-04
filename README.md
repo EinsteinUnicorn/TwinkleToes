@@ -34,7 +34,7 @@ You can now program Twinkle Toes just like you would a Daisy Seed, with some har
 
 This board is capable of leveraging the many different DSP techniques in the [Daisy Seed DSP library.](https://electro-smith.github.io/DaisySP/index.html) I urge anyone with this board to go through the Daisy Seed examples, and play around with what effects the board uses, and how they are used. 
 
-# Thank You's
+# Acknowledgements
 
 There are many people who helped make this project possible. I would like to thank them all here. 
 
