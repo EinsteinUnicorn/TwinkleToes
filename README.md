@@ -22,6 +22,9 @@ Welcome to the documentation for Twinkle Toes, a DIY audio effects pedal based o
 The resistors are just current limiting resistors. You can be way more picky about choosing values to optimize for LED brightness, or you can just use a 1k resitor. 
 There is a 1000uF cap at C2, and a .1uF cap at C3. 
 
+There are some places where the direction of the component matters. Namely the direction of the LEDs and the capacitors go. I have circles the holes where the Cathodes of the devices go. When assembling, please make sure that the short lead goes through the holes circled in Purple. 
+![picture showing cathode placement](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/negatives.jpg)
+
 # Setting up a Development Environment for the TwinkleToes
 
 To program the TwinkleToes, you will need to set up a development environment for developing on the Daisy eed. You can find documentation on how to do that [here.](https://github.com/electro-smith/DaisyWiki/wiki/1.-Setting-Up-Your-Development-Environment)
