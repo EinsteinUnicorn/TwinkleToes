@@ -20,10 +20,14 @@ Welcome to the documentation for Twinkle Toes, a DIY audio effects pedal based o
 ![diagram of twinkle toes](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/diagram.png)
 
 The resistors are just current limiting resistors. You can be way more picky about choosing values to optimize for LED brightness, or you can just use a 1k resitor. 
-There is a 1000uF cap at C2, and a .1uF cap at C3. 
+There is a 1000uF cap at C2, and a 220uF cap at C3. The other capacitor slots are there in case you want to do additional filtering specific to your audio set up. The board works without them ;)
 
 There are some places where the direction of the component matters. Namely the direction of the LEDs and the capacitors go. I have circles the holes where the Cathodes of the devices go. When assembling, please make sure that the short lead goes through the holes circled in Purple. 
 ![picture showing cathode placement](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/negatives.jpg)
+
+Also important to note, Pin 1 on the Daisy Seed should go in the hole marked pin one. If the Daisy Seed is not aligned this was it will not work :(
+![picture of pin 1] (https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/pin1.jpg)
+
 
 # Setting up a Development Environment for the TwinkleToes
 
@@ -43,7 +47,7 @@ You can now program Twinkle Toes just like you would a Daisy Seed, with some har
 | Middle Toe LED  | D22 |
 | Ring Toe LED    | D23 |
 | Pinky Toe LED   | D24 |
-| Potentiometer   |     |
+| Potentiometer   | A0  |
 
 # Effects
 
