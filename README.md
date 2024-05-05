@@ -26,7 +26,7 @@ There are some places where the direction of the component matters. Namely the d
 ![picture showing cathode placement](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/negatives.jpg)
 
 Also important to note, Pin 1 on the Daisy Seed should go in the hole marked pin one. If the Daisy Seed is not aligned this was it will not work :(
-![picture of pin 1] (https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/pin1.jpg)
+![picture of pin 1](https://github.com/EinsteinUnicorn/TwinkleToes/blob/main/pin1.jpg)
 
 
 # Setting up a Development Environment for the TwinkleToes
