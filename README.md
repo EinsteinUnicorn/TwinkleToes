@@ -53,3 +53,15 @@ You can now program Twinkle Toes just like you would a Daisy Seed, with some har
 
 This board is capable of leveraging the many different DSP techniques in the [Daisy Seed DSP library.](https://electro-smith.github.io/DaisySP/index.html) I urge anyone with this board to go through the Daisy Seed examples, and play around with what effects the board uses, and how they are used. 
 
+# Acknowledgements
+
+There are many people who helped make this project possible. I would like to thank them all here. 
+
+Thank you to *Dave Darko* who introduced me to xhain, the community where this project spawned from.
+Thank you to *Winny Li* for designing the graphic for this board. 
+Thank you to *Thea Krug* at Aisler for sponsoring the initial run of this board 🟢
+Thank you to *Jason Garwood* for designing the diagram, and co-creating the previous iterations of this project with me. 
+Thank you to *Rowan Dunlop* for introducing me to the Pittsburgh Sound Preserve, where the initial testing of previous iterations of this project happened, and for supporting prior iterations of the board. 
+Thank you to the folks at Carnegie Mellon University for supporting the initial research on music effects, including my research advisor *Tom Zajdel*, and my mentor *Jesse Styles*. 
+
+
